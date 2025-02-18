@@ -1,0 +1,1 @@
+/Users/agenghadiwicaksono/flutter app/belajar_crud_rirebase/build/app/intermediates/cxx/Debug/3d5n2f5h/obj/armeabi-v7a

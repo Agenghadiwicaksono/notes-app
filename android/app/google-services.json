@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158337253261",
+    "project_id": "try-crud-app1",
+    "storage_bucket": "try-crud-app1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158337253261:android:83a59e500416fab1ee87c4",
+        "android_client_info": {
+          "package_name": "com.example.belajar_crud_rirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkYxpWDwt-d_Jy1nvIJonKZSKQHnWwrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

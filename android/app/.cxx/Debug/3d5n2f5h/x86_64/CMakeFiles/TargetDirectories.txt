@@ -1,0 +1,2 @@
+/Users/agenghadiwicaksono/flutter app/belajar_crud_rirebase/android/app/.cxx/Debug/3d5n2f5h/x86_64/CMakeFiles/edit_cache.dir
+/Users/agenghadiwicaksono/flutter app/belajar_crud_rirebase/android/app/.cxx/Debug/3d5n2f5h/x86_64/CMakeFiles/rebuild_cache.dir
